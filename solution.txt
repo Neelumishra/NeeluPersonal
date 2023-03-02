@@ -1,0 +1,2 @@
+Git stash Apply:It is used to retrieve the changes and apply the changes that were stash away,it leaves the stash entry in the list of stashes.
+Git stash Pop:It is also used to retrieve the changes and apply the changes that were stash away,it remove the stash entry fromthe list.
